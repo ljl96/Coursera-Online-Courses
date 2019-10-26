@@ -8,10 +8,11 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 - Course 1: Neural Networks and Deep Learning
 
-  - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
-  - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
-  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
-  - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
+  - [Week 2 - Python Basics With Numpy](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignments/Week%202%20Python_Basics_With_Numpy_v3a.ipynb)
+  - [Week 2 - Logistic Regression with a Neural Network Mindset](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignments/Week%202%20Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
+  - [Week 3 - Planar data classification with one hidden layer](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignments/Week%203%20Planar_data_classification_with_onehidden_layer_v6c.ipynb)
+  - [Week 4 - Building your Deep Neural Network: Step by Step¶](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignments/Week%204%20Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+  - [Week 4 - Deep Neural Network for Image Classification: Application](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignments/Week%204%20Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
