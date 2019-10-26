@@ -44,6 +44,6 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
   - [Week 2 - Operations on Word Vectors - Debiasing](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%205%20Sequence%20Models/Programming%20Assignments/Week%202%20Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
   - [Week 2 - Emojify](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%205%20Sequence%20Models/Programming%20Assignments/Week%202%20Emojify%2B-%2Bv2.ipynb)
   - [Week 3 - Neural Machine Translation with Attention](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%205%20Sequence%20Models/Programming%20Assignments/Week%203%20Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
-  - [Week 3 - Trigger Word Detection](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%205%20Sequence%20Models/Programming%20Assignments/Week%203%20Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
+  - [Week 3 - Trigger Word Detection](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%205%20Sequence%20Models/Programming%20Assignments/Week%203%20Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
           
 
