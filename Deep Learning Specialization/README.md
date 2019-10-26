@@ -38,7 +38,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
   - [Week 4 - Art Generation with Neural Style Transfer](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%204%20Convolutional%20Neural%20Networks/Programming%20Assignments/Week%204%20Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
   - [Week 4 - Face Recognition for the Happy House](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%204%20Convolutional%20Neural%20Networks/Programming%20Assignments/Week%204%20Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
   
-- Course 5: Sequence Models
+- [Course 5: Sequence Models](https://github.com/ljl96/Coursera-Online-Courses/tree/master/Deep%20Learning%20Specialization/Course%205%20Sequence%20Models)
 
   - [Week 1 - Building a Recurrent Neural Network - Step by Step](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%205%20Sequence%20Models/Programming%20Assignments/Week%201%20Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
   - [Week 1 - Dinosaur Island - Character-Level Language Modeling](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%205%20Sequence%20Models/Programming%20Assignments/Week%201%20Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
