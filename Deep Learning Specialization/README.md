@@ -8,7 +8,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Programming Assignments
 
-- [Course 1: Neural Networks and Deep Learning](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning/README.md)
+- [Course 1: Neural Networks and Deep Learning](https://github.com/ljl96/Coursera-Online-Courses/tree/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning)
 
   - [Week 2 - Python Basics With Numpy](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignments/Week%202%20Python_Basics_With_Numpy_v3a.ipynb)
   - [Week 2 - Logistic Regression with a Neural Network Mindset](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignments/Week%202%20Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
@@ -24,11 +24,11 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
   - [Week 2 - Optimization Methods](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%202%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Programming%20Assignments/Week%202%20Optimization_methods_v1b.ipynb)
   - [Week 3 - TensorFlow Tutorial](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%202%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Programming%20Assignments/Week%203%20TensorFlow_Tutorial_v3b.ipynb)
 
-- Course 3: Structuring Machine Learning Projects
+- [Course 3: Structuring Machine Learning Projects](https://github.com/ljl96/Coursera-Online-Courses/tree/master/Deep%20Learning%20Specialization/Course%203%20Structuring%20Machine%20Learning%20Projects)
 
-  - There is no PA for this course. But this course comes with very interesting case study quizzes.
+  - There is no programming assignment for this course. But this course comes with very interesting case study quizzes.
   
-- Course 4: Convolutional Neural Networks
+- [Course 4: Convolutional Neural Networks](https://github.com/ljl96/Coursera-Online-Courses/tree/master/Deep%20Learning%20Specialization/Course%204%20Convolutional%20Neural%20Networks)
 
   - [Week 1 - Convolutional Model: Step by Step](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%204%20Convolutional%20Neural%20Networks/Programming%20Assignments/Week%201%20Convolution_model_Step_by_Step_v2a.ipynb)
   - [Week 1 - Convolutional Model: Application](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%204%20Convolutional%20Neural%20Networks/Programming%20Assignments/Week%201%20Convolution_model_Application_v1a.ipynb)
