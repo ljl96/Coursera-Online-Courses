@@ -1,4 +1,3 @@
 # Coursera-Online-Courses
 
-[Deep Learning Specialization](../Deep Learning Specialization)
-
+[Lets go to Quora](https://www.quora.com)
