@@ -4,7 +4,7 @@ Offered by: [deeplearning.ai](https://www.deeplearning.ai/)
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
-[Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/EHX2DHJ2WHQH)
+[My Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/EHX2DHJ2WHQH)
 
 ## Programming Assignments
 
