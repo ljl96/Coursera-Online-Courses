@@ -8,7 +8,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Programming Assignments
 
-- Course 1: Neural Networks and Deep Learning
+- [Course 1: Neural Networks and Deep Learning](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning/README.md)
 
   - [Week 2 - Python Basics With Numpy](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignments/Week%202%20Python_Basics_With_Numpy_v3a.ipynb)
   - [Week 2 - Logistic Regression with a Neural Network Mindset](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignments/Week%202%20Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
