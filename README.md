@@ -1,3 +1,3 @@
 # Coursera-Online-Courses
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[Deep Learning Specialization](../Deep Learning Specialization)
