@@ -1,5 +1,10 @@
-# [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
-# Python Programming Assignments
+# [Machine Learning](https://www.coursera.org/learn/machine-learning) 
+
+Offered by: [Standord University](http://cs229.stanford.edu/)
+
+Instructor: [Andrew Ng](http://www.andrewng.org/)
+
+[My Course Certificate](https://www.coursera.org/account/accomplishments/records/SFYW93JX52Y2)
 
 ![](machinelearning.jpg)
 
