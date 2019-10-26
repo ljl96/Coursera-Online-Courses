@@ -6,7 +6,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 [My Course Certificate](https://www.coursera.org/account/accomplishments/records/SFYW93JX52Y2)
 
-Special thanks to the [open-source python versions of the programming assignments](https://github.com/dibgerge/ml-coursera-python-assignments) provided by [Gerges Dib](https://github.com/dibgerge)
+Special thanks to the open-source [python versions of the programming assignments](https://github.com/dibgerge/ml-coursera-python-assignments) provided by [Gerges Dib](https://github.com/dibgerge)
 
 ## About this Course
 
