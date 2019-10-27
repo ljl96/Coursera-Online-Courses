@@ -25,4 +25,4 @@
 
 ## Acknowledgements
 
-  - Special thanks to the open-source [python versions of the programming assignments](https://github.com/dibgerge/ml-coursera-python-assignments) provided by [Gerges Dib](https://github.com/dibgerge)
+  - Special thanks to the open-source [python versions of the programming assignments](https://github.com/dibgerge/ml-coursera-python-assignments) shared by [Gerges Dib](https://github.com/dibgerge)
