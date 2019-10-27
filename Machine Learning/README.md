@@ -1,6 +1,6 @@
 # [Machine Learning](https://www.coursera.org/learn/machine-learning) 
 
-  - Offered by: [Standord University](http://cs229.stanford.edu/)
+  - Offered by: Standord University
 
   - Instructor: [Andrew Ng](http://www.andrewng.org/)
 
