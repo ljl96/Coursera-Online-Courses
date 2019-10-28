@@ -6,7 +6,7 @@
 
   - [My Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/EHX2DHJ2WHQH)
   
-  - [Useful notes shared by CreateMoMO](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)
+  - [Useful notes for refreshing the memory shared by CreateMoMO](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)
 
 ## About this Specialization
 
