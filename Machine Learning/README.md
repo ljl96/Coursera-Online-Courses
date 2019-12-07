@@ -19,7 +19,7 @@
   - [Week 4 - Multi-class Classification and Neural Networks](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Machine%20Learning/Week%204%20-%20Multi-class%20Classification%20and%20Neural%20Networks/exercise3.ipynb)
   - [Week 5 - Neural Network Learning¶](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Machine%20Learning/Week%205%20-%20Neural%20Network%20Learning/exercise4.ipynb)
   - [Week 6 - Regularized Linear Regression and Bias & Variance](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Machine%20Learning/Week%206%20-%20Regularized%20Linear%20Regression%20and%20Bias%20%26%20Variance/exercise5.ipynb)
-  - [Week 7 -Support Vector Machines](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Machine%20Learning/Week%207%20-Support%20Vector%20Machines/exercise6.ipynb)
+  - [Week 7 - Support Vector Machines](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Machine%20Learning/Week%207%20-Support%20Vector%20Machines/exercise6.ipynb)
   - [Week 8 - K-means Clustering and PCA](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Machine%20Learning/Week%208%20-%20K-means%20Clustering%20and%20PCA/exercise7.ipynb)
   - [Week 9 - Anomaly Detection and Recommender Systems](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Machine%20Learning/Week%209%20-%20Anomaly%20Detection%20and%20Recommender%20Systems/exercise8.ipynb)
 
