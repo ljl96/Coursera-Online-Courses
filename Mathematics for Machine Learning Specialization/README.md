@@ -11,13 +11,12 @@ https://www.coursera.org/account/accomplishments/specialization/6P3UCRZ5WC3B)
 
 ## Programming Assignments
 
-- [Course 1: Neural Networks and Deep Learning](https://github.com/ljl96/Coursera-Online-Courses/tree/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning)
+- [Course 1: Linear Algebra](https://github.com/ljl96/Coursera-Online-Courses/tree/master/Mathematics%20for%20Machine%20Learning%20Specialization/Course%201%20Linear%20Algebra)
 
-  - [Week 2 - Python Basics With Numpy](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignments/Week%202%20Python_Basics_With_Numpy_v3a.ipynb)
-  - [Week 2 - Logistic Regression with a Neural Network Mindset](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignments/Week%202%20Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
-  - [Week 3 - Planar data classification with one hidden layer](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignments/Week%203%20Planar_data_classification_with_onehidden_layer_v6c.ipynb)
-  - [Week 4 - Building your Deep Neural Network: Step by Step¶](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignments/Week%204%20Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
-  - [Week 4 - Deep Neural Network for Image Classification: Application](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Deep%20Learning%20Specialization/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignments/Week%204%20Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
+  - [Week 3 - Identifying special matrices](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Mathematics%20for%20Machine%20Learning%20Specialization/Course%201%20Linear%20Algebra/Week3_IdentifyingSpecialMatrices.ipynb)
+  - [Week 4 - Gram-Schmidt process](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Mathematics%20for%20Machine%20Learning%20Specialization/Course%201%20Linear%20Algebra/Week4_GramSchmidtProcess.ipynb)
+  - [Week 4 - Reflecting Bear](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Mathematics%20for%20Machine%20Learning%20Specialization/Course%201%20Linear%20Algebra/Week4_ReflectingBear.ipynb)
+  - [Week 5 - PageRank](https://github.com/ljl96/Coursera-Online-Courses/blob/master/Mathematics%20for%20Machine%20Learning%20Specialization/Course%201%20Linear%20Algebra/Week5_PageRank.ipynb)
 
 - [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/ljl96/Coursera-Online-Courses/tree/master/Deep%20Learning%20Specialization/Course%202%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
 
