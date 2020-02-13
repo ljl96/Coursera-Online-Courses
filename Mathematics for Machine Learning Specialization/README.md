@@ -1,13 +1,10 @@
-# [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) 
+# [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) 
 
-  - Offered by: [deeplearning.ai](https://www.deeplearning.ai/)
+  - Offered by: Imperial College London
 
-  - Instructor: [Andrew Ng](http://www.andrewng.org/)
-
-  - [My Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/EHX2DHJ2WHQH)
-  
-  - [Useful notes for refreshing memory shared by CreateMoMO](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)
-
+  - [My Specialization Certificate](
+https://www.coursera.org/account/accomplishments/specialization/6P3UCRZ5WC3B)
+ 
 ## About this Specialization
 
   - If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
